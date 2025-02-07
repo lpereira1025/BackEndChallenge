@@ -1,0 +1,93 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "title": "Congresso de Jovens Cristãos",
+      "shortDescription": "Um encontro para fortalecer a fé e comunhão entre jovens.",
+      "fullDescription": "O Congresso de Jovens Cristãos é um evento anual que reúne jovens de diversas igrejas para momentos de louvor, adoração, palestras edificantes e comunhão. Contaremos com a presença de pregadores renomados e bandas gospel para proporcionar uma experiência espiritual profunda.",
+      "status": "active",
+      "publishDate": "2025-03-10T10:00:00Z",
+      "image": "https://picsum.photos/200/400"
+    },
+    {
+      "id": "2",
+      "title": "Seminário de Crescimento Espiritual",
+      "shortDescription": "Aprenda a fortalecer sua caminhada cristã.",
+      "fullDescription": "Este seminário tem como objetivo ajudar cristãos a desenvolver uma vida de oração mais profunda, compreender melhor a Bíblia e crescer espiritualmente. Contará com palestras de líderes espirituais e momentos de reflexão.",
+      "status": "active",
+      "publishDate": "2025-04-15T15:00:00Z",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": "5",
+      "title": "Conferência Missionária",
+      "shortDescription": "Apoie e conheça missões ao redor do mundo.",
+      "fullDescription": "Nesta conferência, missionários compartilharão suas experiências e testemunhos de fé. Além disso, discutiremos como podemos apoiar o trabalho missionário através de oração, doações e participação ativa.",
+      "status": "inactive",
+      "publishDate": "2025-07-15T14:00:00Z",
+      "image": "https://picsum.photos/200/150"
+    },
+    {
+      "id": "7",
+      "title": "Vigília de Oração",
+      "shortDescription": "Uma noite inteira dedicada à oração e intercessão.",
+      "fullDescription": "Uma oportunidade para buscar a Deus intensamente através da oração. Durante a vigília, teremos momentos de clamor, intercessão por causas específicas e momentos de louvor para fortalecer nossa comunhão com o Senhor.",
+      "status": "active",
+      "publishDate": "2025-09-12T22:00:00Z",
+      "image": "https://picsum.photos/200/500"
+    },
+    {
+      "id": "8",
+      "title": "Batismo Coletivo",
+      "shortDescription": "Celebre um novo nascimento na fé cristã.",
+      "fullDescription": "Um momento especial para aqueles que decidiram entregar suas vidas a Cristo. O batismo coletivo será realizado em um ambiente de celebração, com testemunhos e louvores para glorificar a Deus por essa decisão tão importante.",
+      "status": "active",
+      "publishDate": "2025-10-05T11:00:00Z",
+      "image": "https://picsum.photos/200/600"
+    },
+    {
+      "id": "9",
+      "title": "Semana da Família Cristã",
+      "shortDescription": "Uma semana dedicada aos valores cristãos na família.",
+      "fullDescription": "Durante essa semana, teremos palestras, dinâmicas e atividades voltadas para o fortalecimento dos laços familiares à luz da Palavra de Deus. Um evento para casais, pais e filhos crescerem juntos na fé.",
+      "status": "active",
+      "publishDate": "2025-11-18T09:00:00Z",
+      "image": "https://picsum.photos/200/220"
+    },
+    {
+      "id": "10",
+      "title": "Cantata de Natal",
+      "shortDescription": "Uma apresentação musical especial sobre o nascimento de Cristo.",
+      "fullDescription": "Nossa cantata de Natal trará um lindo espetáculo de música e teatro contando a história do nascimento de Jesus. Um evento emocionante para toda a família celebrar o verdadeiro significado do Natal.",
+      "status": "active",
+      "publishDate": "2025-12-20T19:30:00Z",
+      "image": "https://picsum.photos/200/320"
+    },
+    {
+      "id": "11",
+      "title": "Encontro de Casais Cristãos",
+      "shortDescription": "Fortaleça seu casamento baseado em princípios bíblicos.",
+      "fullDescription": "Um evento voltado para casais que desejam fortalecer seu relacionamento à luz da Palavra de Deus. Teremos palestras com conselheiros matrimoniais, dinâmicas e momentos de comunhão.",
+      "status": "active",
+      "publishDate": "2026-01-14T16:00:00Z",
+      "image": "https://picsum.photos/200/460"
+    },
+    {
+      "id": "12",
+      "title": "Acampamento de Verão Cristão",
+      "shortDescription": "Um acampamento para jovens e adolescentes crescerem na fé.",
+      "fullDescription": "Nosso acampamento de verão proporciona uma experiência única para jovens e adolescentes com atividades recreativas, cultos, workshops e momentos de comunhão. Um tempo especial para fortalecer a fé e criar amizades cristãs duradouras.",
+      "status": "active",
+      "publishDate": "2026-02-05T08:00:00Z",
+      "image": "https://picsum.photos/200/111"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "email": "admin@email.com",
+      "password": "admin123"
+    }
+  ]
+}
