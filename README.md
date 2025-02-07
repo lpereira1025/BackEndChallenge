@@ -135,14 +135,3 @@
     </li>
     <li>Acesse a API em <a href="http://localhost:8000" target="_blank">http://localhost:8000</a>.</li>
   </ol>
-
-  <h2>Contato</h2>
-  <p>
-    Para mais informações, entre em contato:
-    <ul>
-      <li><strong>Nome</strong>: [Seu Nome]</li>
-      <li><strong>Email</strong>: [seu-email@example.com]</li>
-      <li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">Seu LinkedIn</a></li>
-      <li><strong>GitHub</strong>: <a href="https://github.com/seu-usuario" target="_blank">Seu GitHub</a></li>
-    </ul>
-  </p>
