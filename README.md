@@ -131,7 +131,7 @@
       <pre><code>npm install</code></pre>
     </li>
     <li>Inicie o servidor:
-      <pre><code>npm run server</code></pre>
+      <pre><code>npm run start-auth</code></pre>
     </li>
     <li>Acesse a API em <a href="http://localhost:8000" target="_blank">http://localhost:8000</a>.</li>
   </ol>
